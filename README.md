@@ -85,7 +85,7 @@ pip install pandas scikit-learn
 
 2. **Run the Script**:
    ```bash
-   python spam_predictor.py
+   python email_spam_detection.py
    ```
 
 3. **Predict an Email**:
